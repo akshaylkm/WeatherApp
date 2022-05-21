@@ -8,7 +8,7 @@ function SearchComponent(props) {
     console.log(props.city)
   }
   return (
-        <div className=' bg-slate-200  w-96 h-96 shadow-2xl rounded-xl p-4'>
+        <div className=' bg-slate-200   sm:w-96 w-64 h-96 shadow-2xl rounded-xl p-4'>
           <div className=' bg-slate-200 h-1/5 flex justify-center items-center'>
           <h1 className=' font-bold text-3xl text-gray-500'>Weather App</h1>
           </div>

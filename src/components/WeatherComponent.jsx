@@ -4,7 +4,7 @@ import React from 'react'
 function WeatherComponent(weather) {
   console.log(weather);
   return (
-        <div className=' bg-slate-200 w-96  h-96 p-4 rounded-xl sh'>
+        <div className=' bg-slate-200 sm:w-96 w-64 h-96 p-4 rounded-xl sh'>
           <div className=' bg-slate-200 h-1/6 text-center'>
               <h1 className=' text-gray-500 font-bold text-3xl'>Weather APP</h1>
           </div>
