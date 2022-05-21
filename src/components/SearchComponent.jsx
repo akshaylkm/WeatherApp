@@ -19,7 +19,7 @@ function SearchComponent(props) {
           </button>
           </form>
           <div className=' bg-slate-200 h-3/5 flex justify-center items-center'>
-          <img className=' w-96 h-48 rounded-3xl' src="https://images.pond5.com/glowing-neon-line-sun-and-footage-139642648_iconl.jpeg" alt="asdfasdf" />
+          <img className=' w-96 h-48 rounded-3xl' src="https://c.tenor.com/LFO86xmMuWYAAAAC/rain-umbrella.gif" alt="asdfasdf" />
           </div>
         </div>
   )
